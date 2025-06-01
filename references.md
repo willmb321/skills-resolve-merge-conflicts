@@ -1,3 +1,2 @@
-# References
+I'm creating a merge conflict!
 
-* octocat 1 😈
